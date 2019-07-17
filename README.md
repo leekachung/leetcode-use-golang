@@ -10,6 +10,7 @@
 |题号|题目|难度|
 |:-:|:-:|:-:|
 |[1](https://leetcode-cn.com/problems/two-sum/)|[两数之和](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/1.go)|easy|
+|[7](https://leetcode-cn.com/problems/reverse-integer/)|[整数反转](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/7.go)|easy|
 |[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[从排序数组中删除重复项](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/26.go)|easy|
 |[36](https://leetcode-cn.com/problems/valid-sudoku/)|[有效的数独](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/36.go)|medium|
 |[48](https://leetcode-cn.com/problems/rotate-image/)|[旋转图像](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/48.go)|medium|
