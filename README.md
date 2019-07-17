@@ -11,6 +11,7 @@
 |:-:|:-:|:-:|
 |[1](https://leetcode-cn.com/problems/two-sum/)|[两数之和](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/1.go)|easy|
 |[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[从排序数组中删除重复项](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/26.go)|easy|
+|[36](https://leetcode-cn.com/problems/valid-sudoku/)|[有效的数独](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/36.go)|medium|
 |[66](https://leetcode-cn.com/problems/plus-one/)|[加一](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/66.go)|easy|
 |[122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|[买卖股票的最佳时机 II](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/122.go)|easy|
 |[136](https://leetcode-cn.com/problems/single-number/)|[只出现一次的数字](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/136.go)|easy|
