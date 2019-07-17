@@ -14,6 +14,7 @@
 |[136](https://leetcode-cn.com/problems/single-number/)|[只出现一次的数字](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/136.go)|easy|
 |[189](https://leetcode-cn.com/problems/rotate-array/)|[旋转数组](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/189.go)|easy|
 |[217](https://leetcode-cn.com/problems/contains-duplicate/submissions/)|[存在重复元素](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/217.go)|easy|
+|[350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|[两个数组的交集 II](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/350.go)|easy|
 
 # 笔记
 可前往[https://lkc.im](我的blog)查看
