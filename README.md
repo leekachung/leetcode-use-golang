@@ -11,6 +11,7 @@
 |:-:|:-:|:-:|
 |[1](https://leetcode-cn.com/problems/two-sum/)|[两数之和](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/1.go)|easy|
 |[7](https://leetcode-cn.com/problems/reverse-integer/)|[整数反转](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/7.go)|easy|
+|[8](https://leetcode-cn.com/problems/string-to-integer-atoi/)|[字符串转换整数 (atoi)](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/8.go)|medium|
 |[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[从排序数组中删除重复项](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/26.go)|easy|
 |[36](https://leetcode-cn.com/problems/valid-sudoku/)|[有效的数独](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/36.go)|medium|
 |[48](https://leetcode-cn.com/problems/rotate-image/)|[旋转图像](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/48.go)|medium|
