@@ -15,6 +15,7 @@
 |[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[从排序数组中删除重复项](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/26.go)|easy|
 |[28](https://leetcode-cn.com/problems/implement-strstr/)|[实现strStr()](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/28.go)|easy|
 |[36](https://leetcode-cn.com/problems/valid-sudoku/)|[有效的数独](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/36.go)|medium|
+|[38](https://leetcode-cn.com/problems/count-and-say/)|[报数](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/38.go)|easy|
 |[48](https://leetcode-cn.com/problems/rotate-image/)|[旋转图像](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/48.go)|medium|
 |[66](https://leetcode-cn.com/problems/plus-one/)|[加一](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/66.go)|easy|
 |[122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|[买卖股票的最佳时机 II](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/122.go)|easy|
