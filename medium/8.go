@@ -1,3 +1,4 @@
+// Solution 1
 const (
     // 允许的返回值范围
     maxInt = 1 << 31 -1
@@ -49,3 +50,33 @@ func myAtoi(str string) int {
     }
     return res
 }
+
+// Solution 2  less code
+func myAtoi(str string) int {
+    ret := ""
+	lasts := ""
+	for _, a := range(str){
+		//fmt.Println(a)
+		if a < '0' || a > '9'{
+			if ret != ""{
+				break
+			}
+            if a == '-' || a== '+' {
+                ret = string(a)	
+            }else if a != ' ' {
+                break
+            }
+            continue				
+		}
+		ret += string(a)
+	}
+	ret = lasts + ret
+    s, _ := strconv.Atoi(ret)
+    if s > math.MaxInt32{
+        s = math.MaxInt32
+    }else if s <math.MinInt32{
+        s = math.MinInt32
+    }
+    return s
+}
+
