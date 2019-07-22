@@ -43,7 +43,7 @@ func bfs(root *TreeNode) [][]int {
     return levels
 }
 
-// solution 2
+// solution 2 dfs
 func levelOrder(root *TreeNode) [][]int {
     return dfs(root, 0, [][]int{})
 }
