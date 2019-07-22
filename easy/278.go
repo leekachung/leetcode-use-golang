@@ -13,6 +13,6 @@ func firstBadVersion(n int) int {
             right = mid
         }
     }
-    if !isBadVersion(left - 1) && isBadVersion(left) { return mid }
+    if !isBadVersion(left - 1) && isBadVersion(left) { return left }
     return -1
 }
