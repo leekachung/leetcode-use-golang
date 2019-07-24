@@ -50,6 +50,7 @@
 |[350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|[两个数组的交集 II](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/350.go)|easy|
 |[384](https://leetcode-cn.com/problems/shuffle-an-array/)|[打乱数组](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/384.go)|medium|
 |[387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|[字符串中的第一个唯一字符](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/387.go)|easy|
+|[412](https://leetcode-cn.com/problems/fizz-buzz/)|[Fizz Buzz](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/412.go)|easy|
 
 # 笔记
 可前往[https://lkc.im](我的blog)查看
