@@ -36,6 +36,7 @@
 |[125](https://leetcode-cn.com/problems/valid-palindrome/)|[验证回文串](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/125.go)|easy|
 |[136](https://leetcode-cn.com/problems/single-number/)|[只出现一次的数字](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/136.go)|easy|
 |[141](https://leetcode-cn.com/problems/linked-list-cycle/)|[环形链表](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/141.go)|easy|
+|[155](https://leetcode-cn.com/problems/min-stack/)|[最小栈](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/155.go)|easy|
 |[189](https://leetcode-cn.com/problems/rotate-array/)|[旋转数组](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/189.go)|easy|
 |[198](https://leetcode-cn.com/problems/house-robber/)|[打家劫舍](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/198.go)|easy|
 |[206](https://leetcode-cn.com/problems/reverse-linked-list/)|[反转链表](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/206.go)|easy|
