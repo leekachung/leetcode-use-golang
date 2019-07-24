@@ -47,6 +47,7 @@
 |[242](https://leetcode-cn.com/problems/valid-anagram/)|[有效的字母异位词](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/242.go)|easy|
 |[278](https://leetcode-cn.com/problems/first-bad-version/)|[第一个错误的版本](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/278.go)|easy|
 |[283](https://leetcode-cn.com/problems/move-zeroes/)|[移动零](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/283.go)|easy|
+|[326](https://leetcode-cn.com/problems/power-of-three/)|[3的幂](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/326.go)|easy|
 |[344](https://leetcode-cn.com/problems/reverse-string/)|[反转字符串](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/344.go)|easy|
 |[350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|[两个数组的交集 II](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/350.go)|easy|
 |[384](https://leetcode-cn.com/problems/shuffle-an-array/)|[打乱数组](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/384.go)|medium|
