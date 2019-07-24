@@ -1,3 +1,4 @@
+// solution 1 28ms
 type MinStack struct {
     nums []int
     min  []int
@@ -41,6 +42,56 @@ func (this *MinStack) GetMin() int {
 }
 
 
+/**
+ * Your MinStack object will be instantiated and called as such:
+ * obj := Constructor();
+ * obj.Push(x);
+ * obj.Pop();
+ * param_3 := obj.Top();
+ * param_4 := obj.GetMin();
+ */
+
+// solution 2 20ms
+type MinStack struct {
+    Xstack []int // 存放push到stack的x
+    Mstack []int // 存放min(stack[-1], x)
+}
+
+
+/** initialize your data structure here. */
+func Constructor() MinStack {
+    
+    return MinStack{[]int{}, []int{math.MaxInt32}}
+}
+
+
+func (this *MinStack) Push(x int)  {
+    this.Xstack = append(this.Xstack, x)
+    this.Mstack = append(this.Mstack, min(x, this.Mstack[len(this.Mstack)-1]))
+}
+
+
+func (this *MinStack) Pop()  {
+    this.Xstack = this.Xstack[:len(this.Xstack)-1]
+    this.Mstack = this.Mstack[:len(this.Mstack)-1]
+}
+
+
+func (this *MinStack) Top() int {
+    return this.Xstack[len(this.Xstack)-1]
+}
+
+
+func (this *MinStack) GetMin() int {
+    return this.Mstack[len(this.Mstack)-1]
+}
+
+func min(a, b int)int{
+    if a < b{
+        return a
+    }
+    return b
+}
 /**
  * Your MinStack object will be instantiated and called as such:
  * obj := Constructor();
