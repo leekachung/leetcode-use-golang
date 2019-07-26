@@ -2,6 +2,8 @@
 
 记录下使用 Golang 刷 leetcode
 
+> 可使用浏览器页面搜索功能「Ctrl + F」 定位题目
+
 # 进度
 
 > 点击题号 跳转leetcode 
@@ -15,6 +17,7 @@
 |[12](https://leetcode-cn.com/problems/integer-to-roman/)|[整数转罗马数字](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/12.go)|medium|
 |[13](https://leetcode-cn.com/problems/roman-to-integer/)|[罗马数字转整数](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/13.go)|easy|
 |[14](https://leetcode-cn.com/problems/longest-common-prefix/)|[最长公共前缀](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/14.go)|easy|
+|[15](https://leetcode-cn.com/problems/3sum/)|[三数之和](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/15.go)|medium|
 |[19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|[删除链表的倒数第N个节点](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/19.go)|medium|
 |[20](https://leetcode-cn.com/problems/valid-parentheses/solution/)|[有效的括号](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/20.go)|easy|
 |[21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[合并两个有序链表](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/21.go)|easy|
