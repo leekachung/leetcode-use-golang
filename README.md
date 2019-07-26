@@ -16,6 +16,7 @@
 |[13](https://leetcode-cn.com/problems/roman-to-integer/)|[罗马数字转整数](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/13.go)|easy|
 |[14](https://leetcode-cn.com/problems/longest-common-prefix/)|[最长公共前缀](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/14.go)|easy|
 |[19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|[删除链表的倒数第N个节点](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/19.go)|medium|
+|[20](https://leetcode-cn.com/problems/valid-parentheses/solution/)|[有效的括号](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/20.go)|easy|
 |[21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[合并两个有序链表](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/21.go)|easy|
 |[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[从排序数组中删除重复项](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/26.go)|easy|
 |[28](https://leetcode-cn.com/problems/implement-strstr/)|[实现strStr()](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/28.go)|easy|
