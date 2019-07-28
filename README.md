@@ -12,6 +12,7 @@
 |题号|题目|难度|
 |:-:|:-:|:-:|
 |[1](https://leetcode-cn.com/problems/two-sum/)|[两数之和](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/1.go)|easy|
+|[2](https://leetcode-cn.com/problems/add-two-numbers/)|[两数相加](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/2.go)|medium|
 |[3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|[无重复字符的最长子串](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/3.go)|medium|
 |[5](https://leetcode-cn.com/problems/longest-palindromic-substring/)|[最长回文子串](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/5.go)|medium|
 |[7](https://leetcode-cn.com/problems/reverse-integer/)|[整数反转](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/7.go)|easy|
