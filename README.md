@@ -45,6 +45,7 @@
 |[106](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[从中序与后序遍历序列构造二叉树](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/106.go)|medium|
 |[108](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)|[将有序数组转换为二叉搜索树](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/108.go)|easy|
 |[111](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)|[二叉树的最小深度](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/111.go)|easy|
+|[116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)|[填充每个节点的下一个右侧节点指针](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/116.go)|medium|
 |[118](https://leetcode-cn.com/problems/pascals-triangle/)|[杨辉三角](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/118.go)|easy|
 |[121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[买卖股票的最佳时机](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/121.go)|easy|
 |[122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|[买卖股票的最佳时机 II](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/122.go)|easy|
