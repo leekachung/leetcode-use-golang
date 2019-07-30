@@ -25,6 +25,7 @@
 |[19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|[删除链表的倒数第N个节点](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/19.go)|medium|
 |[20](https://leetcode-cn.com/problems/valid-parentheses/solution/)|[有效的括号](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/20.go)|easy|
 |[21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[合并两个有序链表](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/21.go)|easy|
+|[22](https://leetcode-cn.com/problems/generate-parentheses/)|[括号生成](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/22.go)|medium|
 |[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[从排序数组中删除重复项](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/26.go)|easy|
 |[28](https://leetcode-cn.com/problems/implement-strstr/)|[实现strStr()](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/28.go)|easy|
 |[36](https://leetcode-cn.com/problems/valid-sudoku/)|[有效的数独](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/36.go)|medium|
