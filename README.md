@@ -31,7 +31,7 @@
 |[36](https://leetcode-cn.com/problems/valid-sudoku/)|[有效的数独](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/36.go)|medium||
 |[38](https://leetcode-cn.com/problems/count-and-say/)|[报数](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/38.go)|easy||
 |[46](https://leetcode-cn.com/problems/permutations/)|[全排列](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/46.go)|medium|❓|
-|[47](https://leetcode-cn.com/problems/permutations-ii/)|[全排列 II](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/47.go)|medium||
+|[47](https://leetcode-cn.com/problems/permutations-ii/)|[全排列 II](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/47.go)|medium|❓|
 |[48](https://leetcode-cn.com/problems/rotate-image/)|[旋转图像](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/48.go)|medium||
 |[49](https://leetcode-cn.com/problems/group-anagrams/)|[字母异位词分组](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/49.go)|medium||
 |[53](https://leetcode-cn.com/problems/maximum-subarray/)|[最大子序和](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/53.go)|easy||
