@@ -22,9 +22,9 @@
 |[14](https://leetcode-cn.com/problems/longest-common-prefix/)|[最长公共前缀](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/14.go)|easy||
 |[15](https://leetcode-cn.com/problems/3sum/)|[三数之和](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/15.go)|medium||
 |[17](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)|[电话号码的字母组合](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/17.go)|medium||
-|[19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|[删除链表的倒数第N个节点](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/19.go)|medium||
+|[19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)|[删除链表的倒数第N个节点](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/19.go)|medium|⭐️|
 |[20](https://leetcode-cn.com/problems/valid-parentheses/solution/)|[有效的括号](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/20.go)|easy||
-|[21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[合并两个有序链表](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/21.go)|easy||
+|[21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[合并两个有序链表](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/21.go)|easy|⭐️|
 |[22](https://leetcode-cn.com/problems/generate-parentheses/)|[括号生成](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/22.go)|medium||
 |[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[从排序数组中删除重复项](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/26.go)|easy||
 |[28](https://leetcode-cn.com/problems/implement-strstr/)|[实现strStr()](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/28.go)|easy||
@@ -38,13 +38,14 @@
 |[66](https://leetcode-cn.com/problems/plus-one/)|[加一](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/66.go)|easy||
 |[70](https://leetcode-cn.com/problems/climbing-stairs/)|[爬楼梯](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/70.go)|easy||
 |[73](https://leetcode-cn.com/problems/set-matrix-zeroes/)|[矩阵置零](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/73.go)|medium||
-|[78](https://leetcode-cn.com/problems/subsets/)|[子集](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/78.go)|medium||
+|[78](https://leetcode-cn.com/problems/subsets/)|[子集](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/78.go)|medium|❓|
 |[88](https://leetcode-cn.com/problems/merge-sorted-array/)|[合并两个有序数组](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/88.go)|easy||
+|[90](https://leetcode-cn.com/problems/subsets-ii/)|[子集 II](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/90.go)|medium|❓|
 |[94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|[二叉树的中序遍历](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/94.go)|medium||
 |[98](https://leetcode-cn.com/problems/validate-binary-search-tree/)|[验证二叉搜索树](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/98.go)|medium||
 |[101](https://leetcode-cn.com/problems/symmetric-tree/submissions/)|[对称二叉树](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/101.go)|easy||
 |[102](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|[二叉树的层次遍历](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/102.go)|medium||
-|[103](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)|[二叉树的锯齿形层次遍历](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/103.go)|medium||
+|[103](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)|[二叉树的锯齿形层次遍历](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/103.go)|medium|⭐️|
 |[104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|[二叉树的最大深度](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/104.go)|easy||
 |[105](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[从前序与中序遍历序列构造二叉树](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/105.go)|medium||
 |[106](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[从中序与后序遍历序列构造二叉树](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/106.go)|medium||
@@ -58,12 +59,12 @@
 |[136](https://leetcode-cn.com/problems/single-number/)|[只出现一次的数字](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/136.go)|easy||
 |[141](https://leetcode-cn.com/problems/linked-list-cycle/)|[环形链表](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/141.go)|easy||
 |[155](https://leetcode-cn.com/problems/min-stack/)|[最小栈](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/155.go)|easy||
-|[160](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[相交链表](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/160.go)|easy||
+|[160](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[相交链表](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/160.go)|easy|⭐️|
 |[189](https://leetcode-cn.com/problems/rotate-array/)|[旋转数组](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/189.go)|easy||
 |[190](https://leetcode-cn.com/problems/reverse-bits/)|[颠倒二进制位](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/190.go)|easy||
 |[191](https://leetcode-cn.com/problems/number-of-1-bits/)|[位1的个数](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/191.go)|easy||
 |[198](https://leetcode-cn.com/problems/house-robber/)|[打家劫舍](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/198.go)|easy||
-|[200](https://leetcode-cn.com/problems/number-of-islands/)|[岛屿数量](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/200.go)|medium||
+|[200](https://leetcode-cn.com/problems/number-of-islands/)|[岛屿数量](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/200.go)|medium|⭐️|
 |[204](https://leetcode-cn.com/problems/count-primes/)|[计数质数](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/204.go)|easy||
 |[206](https://leetcode-cn.com/problems/reverse-linked-list/)|[反转链表](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/206.go)|easy||
 |[217](https://leetcode-cn.com/problems/contains-duplicate/submissions/)|[存在重复元素](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/217.go)|easy||
@@ -82,7 +83,13 @@
 |[384](https://leetcode-cn.com/problems/shuffle-an-array/)|[打乱数组](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/384.go)|medium||
 |[387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|[字符串中的第一个唯一字符](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/387.go)|easy||
 |[412](https://leetcode-cn.com/problems/fizz-buzz/)|[Fizz Buzz](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/412.go)|easy||
-|[461](https://leetcode-cn.com/problems/hamming-distance/)|[汉明距离](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/461.go)|easy||
+|[461](https://leetcode-cn.com/problems/hamming-distance/)|[汉明距离](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/461.go)|easy|⭐️|
+
+# 待努力📝
+
+- [ ] 回溯算法
+- [ ] DFS | BFS 相关操作
+- [ ] 动态规划
 
 # 笔记
 可前往[https://lkc.im](我的blog)查看
