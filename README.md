@@ -39,6 +39,7 @@
 |[70](https://leetcode-cn.com/problems/climbing-stairs/)|[爬楼梯](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/70.go)|easy||
 |[73](https://leetcode-cn.com/problems/set-matrix-zeroes/)|[矩阵置零](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/73.go)|medium||
 |[78](https://leetcode-cn.com/problems/subsets/)|[子集](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/78.go)|medium|❓[类似题](https://leetcode-cn.com/problems/subsets/solution/hui-su-suan-fa-by-powcai-5/)|
+|[79](https://leetcode-cn.com/problems/word-search/)|[单词搜索](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/79.go)|medium|⭐️|
 |[88](https://leetcode-cn.com/problems/merge-sorted-array/)|[合并两个有序数组](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/88.go)|easy||
 |[90](https://leetcode-cn.com/problems/subsets-ii/)|[子集 II](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/90.go)|medium|❓|
 |[94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|[二叉树的中序遍历](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/94.go)|medium||
