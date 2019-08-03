@@ -81,6 +81,7 @@
 |[328](https://leetcode-cn.com/problems/odd-even-linked-list/)|[奇偶链表](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/328.go)|medium||
 |[334](https://leetcode-cn.com/problems/increasing-triplet-subsequence/)|[递增的三元子序列](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/334.go)|medium||
 |[344](https://leetcode-cn.com/problems/reverse-string/)|[反转字符串](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/344.go)|easy||
+|[347](https://leetcode-cn.com/problems/top-k-frequent-elements/)|[前 K 个高频元素](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/347.go)|medium||
 |[350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|[两个数组的交集 II](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/350.go)|easy||
 |[384](https://leetcode-cn.com/problems/shuffle-an-array/)|[打乱数组](https://github.com/leekachung/leetcode-use-golang/blob/master/medium/384.go)|medium||
 |[387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|[字符串中的第一个唯一字符](https://github.com/leekachung/leetcode-use-golang/blob/master/easy/387.go)|easy||
